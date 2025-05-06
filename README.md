@@ -1,4 +1,4 @@
-# 🎉 Tarjeta de Cumpleaños - Jetpack Compose
+# 🎉 Articulo de Compose - Jetpack Compose
 
 Este proyecto es parte del curso oficial de Android: **"Android Basics with Compose"**.  
 La app muestra un tutorial de compose, utilizando componentes de Jetpack Compose.
